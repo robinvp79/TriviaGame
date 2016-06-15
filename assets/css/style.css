@@ -32,3 +32,16 @@ h1{
 	color: red;
 	text-align: center;
 }
+
+button {
+	margin: auto;
+	width: 150px;
+	height: 35px;
+}
+
+button:hover {
+    background-color: #33FF66;
+    color: black;
+    outline: 4px solid gray;
+    outline-offset: 1px;
+}
